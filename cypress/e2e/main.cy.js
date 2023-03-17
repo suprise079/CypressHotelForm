@@ -1,5 +1,6 @@
 import { elements } from "../objects/objects";
-import LandingPage  from "../pages/landing"
+import LandingPage  from "../pages/landing";
+import "cypress-mochawesome-reporter/register";
 
 
 
